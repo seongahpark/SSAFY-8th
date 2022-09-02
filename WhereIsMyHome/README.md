@@ -1,19 +1,19 @@
 # WhereIsMyHome_1_Java_03조_박성아_박성훈
 
-![image](/uploads/298f33d850695f12ef6aee9e29e9b04d/image.png)
+![image](https://user-images.githubusercontent.com/38274684/188040611-19739257-aab5-41d9-ae7d-710ef3e28e99.png)
 
-![image](/uploads/ef29e904d4f05e32d79ea0ff30808b8d/image.png)
+![image](https://user-images.githubusercontent.com/38274684/188040628-32d8944c-59e6-47cc-9bc0-94624bc8966f.png)
 
 
 	
 ## 이미지 없는 경우
-![image](/uploads/573b3e61479a00346c854efe237403b5/image.png)
+![image](https://user-images.githubusercontent.com/38274684/188040640-6907ff82-faa1-4fa8-b379-056bce050f2d.png)
 
 ## 동으로 검색
-![image](/uploads/a0916ee46b2fa14b9388beac2dc4737d/image.png)
+![image](https://user-images.githubusercontent.com/38274684/188040654-28e154da-501c-410b-97bf-5381a706182a.png)
 
 ## 체크박스 아파트 매매만 선택했을 경우
-![image](/uploads/3990a808e48803396e72372db558ac00/image.png)
+![image](https://user-images.githubusercontent.com/38274684/188040674-e8317e06-7b65-4679-b980-7a7ecb6fa538.png)
 
 
 
@@ -27,8 +27,8 @@
 
 주택 클릭 시 왼쪽 패널, 주택 정보의 제일 하단에 **환경 시설 개수**라는 항목으로 출력 됨
 
-![image](/uploads/5c0ed5df561676f685c158e6e2d0eac8/image.png)
+![image](https://user-images.githubusercontent.com/38274684/188040691-ad512345-2f3f-4362-a7b2-de25fd3b5752.png)
 
-![image](/uploads/37375ed6aa561644640b616c3eaa2009/image.png)
+![image](https://user-images.githubusercontent.com/38274684/188040702-276c1d6e-95d2-4ca8-9a92-c4f9fc5e583c.png)
 
 
